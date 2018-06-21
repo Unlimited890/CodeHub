@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_form_sections form_id="9c62df054f7213008a27e321a310c7e0" sys_domain="global" table="x_197066_ila_need_ila_need" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-18 09:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9062df054f7213008a27e321a310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_197066_ila_need_ila_need" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">9c62df054f7213008a27e321a310c7e0</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">ace0dfc14f7213008a27e321a310c703</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-18 09:10:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-18 09:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c62df054f7213008a27e321a310c7e4</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_197066_ila_need_ila_need" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">9c62df054f7213008a27e321a310c7e0</sys_ui_form>
+            <sys_ui_section caption="My Idea" display_value="My Idea" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">5062df054f7213008a27e321a310c7e0</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-18 09:10:45</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 10:18:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>3015f5794f7213008a27e321a310c778</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_197066_ila_need_ila_need" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">9c62df054f7213008a27e321a310c7e0</sys_ui_form>
+            <sys_ui_section caption="Log" display_value="Log" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">3015f5794f7213008a27e321a310c775</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 10:18:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 10:18:33</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>b81539794f7213008a27e321a310c742</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_197066_ila_need_ila_need" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">9c62df054f7213008a27e321a310c7e0</sys_ui_form>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="Default view">f415f5794f7213008a27e321a310c775</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 10:18:33</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_197066_ila_need_ila_need</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-18 09:10:45</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c62df054f7213008a27e321a310c7e0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_197066_ila_need_ila_need</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ila_Need_To_Delete" source="x_197066_ila_need">025fae814f3213008a27e321a310c7bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ila_Need_To_Delete">025fae814f3213008a27e321a310c7bd</sys_scope>
+            <sys_update_name>sys_ui_form_sections_9c62df054f7213008a27e321a310c7e0</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-18 09:10:45</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

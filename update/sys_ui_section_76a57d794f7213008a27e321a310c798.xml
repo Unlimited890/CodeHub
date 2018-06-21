@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Log" section_id="76a57d794f7213008a27e321a310c798" sys_domain="global" table="x_197066_ila_need_ila_need" version="3" view="Ilaview">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>activity.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 10:21:08</sys_created_on>
+            <sys_id>baa5bd794f7213008a27e321a310c7d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Activities (filtered)">444ea5c6bf310100e628555b3f0739d6</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_197066_ila_need_ila_need" sys_domain="global" view="b6a57d794f7213008a27e321a310c794">76a57d794f7213008a27e321a310c798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 10:21:08</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cxs_table_search.xml</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 10:21:08</sys_created_on>
+            <sys_id>bea5bd794f7213008a27e321a310c7d2</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Contextual Search Results">11eb1622eb1121003623666cd206fe56</sys_ui_formatter>
+            <sys_ui_section caption="Log" display_value="Log" name="x_197066_ila_need_ila_need" sys_domain="global" view="b6a57d794f7213008a27e321a310c794">76a57d794f7213008a27e321a310c798</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 10:21:08</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Log</caption>
+            <header>false</header>
+            <name>x_197066_ila_need_ila_need</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-20 10:21:08</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>76a57d794f7213008a27e321a310c798</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Log</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ila_Need_To_Delete" source="x_197066_ila_need">025fae814f3213008a27e321a310c7bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ila_Need_To_Delete">025fae814f3213008a27e321a310c7bd</sys_scope>
+            <sys_update_name>sys_ui_section_76a57d794f7213008a27e321a310c798</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-20 10:21:08</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Ilaview" name="Ilaview">b6a57d794f7213008a27e321a310c794</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
