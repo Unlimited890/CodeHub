@@ -2,7 +2,7 @@
 <database>
     <element audit="true" label="ila-need" max_length="40" name="x_197066_ila_need_ila_need" type="collection">
         <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
-        <element default="javascript:current.getTableName();" label="Class" max_length="80" name="sys_class_name" type="sys_class_name"/>
+        <element default="javascript:current.getTableName();" dynamic_default_value="b5cb83a85f220100a9ad2572f2b4773c" label="Class" max_length="80" name="sys_class_name" type="sys_class_name" use_dynamic_default="true"/>
         <element label="Advance_view" max_length="40" name="u_advance_view" type="longint"/>
         <element attributes="edge_encryption_enabled=true" choice="3" default="cost" label="Idea type" mandatory="true" max_length="40" name="u_choice_4" type="string">
             <choice>
@@ -11,6 +11,7 @@
                 <element label="Team Building" sequence="2" value="team"/>
             </choice>
         </element>
+        <element label="Arjun" max_length="40" name="u_glide_time_1" type="glide_time"/>
         <element label="Idea implemented" max_length="40" name="u_implemented" type="boolean"/>
         <element attributes="edge_encryption_enabled=true" label="Short Description" mandatory="true" max_length="125" name="u_string_1" type="string"/>
         <element attributes="edge_encryption_enabled=true" label="Description" mandatory="true" max_length="1000" name="u_string_2" type="string"/>

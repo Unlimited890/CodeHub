@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="Statistics" section_id="777ad0ea4f3e13008a27e321a310c73b" sys_domain="global" table="x_197066_ila_need_ila_need" version="3" view="Arjun">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:15</sys_created_on>
+            <sys_id>408a14ea4f3e13008a27e321a310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="bf7ad0ea4f3e13008a27e321a310c736">777ad0ea4f3e13008a27e321a310c73b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_implemented</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:15</sys_created_on>
+            <sys_id>c08a14ea4f3e13008a27e321a310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="bf7ad0ea4f3e13008a27e321a310c736">777ad0ea4f3e13008a27e321a310c73b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:15</sys_created_on>
+            <sys_id>448a14ea4f3e13008a27e321a310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="bf7ad0ea4f3e13008a27e321a310c736">777ad0ea4f3e13008a27e321a310c73b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:15</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_updated_by</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:15</sys_created_on>
+            <sys_id>c48a14ea4f3e13008a27e321a310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="bf7ad0ea4f3e13008a27e321a310c736">777ad0ea4f3e13008a27e321a310c73b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_mod_count</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:15</sys_created_on>
+            <sys_id>488a14ea4f3e13008a27e321a310c735</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Statistics" display_value="Statistics" name="x_197066_ila_need_ila_need" sys_domain="global" view="bf7ad0ea4f3e13008a27e321a310c736">777ad0ea4f3e13008a27e321a310c73b</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:15</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Statistics</caption>
+            <header>false</header>
+            <name>x_197066_ila_need_ila_need</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2018-06-22 11:38:14</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>777ad0ea4f3e13008a27e321a310c73b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Statistics</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Ila_Need_To_Delete" source="x_197066_ila_need">025fae814f3213008a27e321a310c7bd</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Ila_Need_To_Delete">025fae814f3213008a27e321a310c7bd</sys_scope>
+            <sys_update_name>sys_ui_section_777ad0ea4f3e13008a27e321a310c73b</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2018-06-22 11:38:14</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Arjun" name="Arjun">bf7ad0ea4f3e13008a27e321a310c736</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

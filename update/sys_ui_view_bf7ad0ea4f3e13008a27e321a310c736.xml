@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update table="sys_ui_view">
+    <sys_ui_view action="INSERT_OR_UPDATE">
+        <group/>
+        <hidden>false</hidden>
+        <name>Arjun</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2018-06-22 11:38:14</sys_created_on>
+        <sys_id>bf7ad0ea4f3e13008a27e321a310c736</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Arjun</sys_name>
+        <sys_package display_value="Ila_Need_To_Delete" source="x_197066_ila_need">025fae814f3213008a27e321a310c7bd</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Ila_Need_To_Delete">025fae814f3213008a27e321a310c7bd</sys_scope>
+        <sys_update_name>sys_ui_view_bf7ad0ea4f3e13008a27e321a310c736</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2018-06-22 11:38:14</sys_updated_on>
+        <title>Arjun</title>
+        <user/>
+    </sys_ui_view>
+</record_update>
